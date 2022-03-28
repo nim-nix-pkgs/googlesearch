@@ -11,7 +11,6 @@
   inputs.src-googlesearch-v0_3_1.ref   = "refs/tags/v0.3.1";
   inputs.src-googlesearch-v0_3_1.owner = "xyb";
   inputs.src-googlesearch-v0_3_1.repo  = "googlesearch.nim";
-  inputs.src-googlesearch-v0_3_1.dir   = "";
   inputs.src-googlesearch-v0_3_1.type  = "github";
   
   inputs."nimquery".owner = "nim-nix-pkgs";

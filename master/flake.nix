@@ -11,7 +11,6 @@
   inputs.src-googlesearch-master.ref   = "refs/heads/master";
   inputs.src-googlesearch-master.owner = "xyb";
   inputs.src-googlesearch-master.repo  = "googlesearch.nim";
-  inputs.src-googlesearch-master.dir   = "";
   inputs.src-googlesearch-master.type  = "github";
   
   inputs."nimquery".owner = "nim-nix-pkgs";
